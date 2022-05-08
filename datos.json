@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Coca-Cola Zero",
+    "size": "1.25 litro",
+    "type": "bebidas"
+  },
+  {
+    "name": "Sprite",
+    "size": "2.25 litro",
+    "type": "bebidas"
+  },
+  {
+    "name": "Paso de los Toros",
+    "size": "1.25 litro",
+    "type": "bebidas"
+  },
+  {
+    "name": "Pepitos",
+    "size": "250 gramos",
+    "type": "Galletas"
+  },
+  {
+    "name": "Surtido Bagley",
+    "size": "450 gramos",
+    "type": "Galletas"
+  }
+]
